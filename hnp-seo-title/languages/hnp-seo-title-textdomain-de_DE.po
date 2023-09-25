@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HNP - Url SEO Title\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-24 16:51+0000\n"
+"PO-Revision-Date: 2023-09-24 17:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3.1\n"
+"X-Domain: hnp-seo-title-textdomain"
+
+#: inc/options-page-wrapper.php:100
+msgid ".example-class{color: #000;}"
+msgstr ""
+
+#: inc/options-page-wrapper.php:55
+msgid "Activate compatibility mode?"
+msgstr "Aktiviere den Kompatibilitätsmodus?"
+
+#: hnp-seo-title.php:152 hnp-seo-title.php:170
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: inc/options-page-wrapper.php:74
+msgid "Add Words on the End of the Tag"
+msgstr "Füge ein Wort am Ende des Titel-Tags hinzu"
+
+#: inc/options-page-wrapper.php:69
+msgid "Add Words on the Start of the Tag"
+msgstr "Füge ein Wort am Anfang des Titel-Tags hinzu"
+
+#. Description of the plugin
+msgid "Automatically generates title tags for URLs without existing tags."
+msgstr "Erzeugt automatische Title-Tags bei URLs ohne vorhandenen Tags."
+
+#. Author of the plugin
+msgid "Christopher Rohde"
+msgstr ""
+
+#: hnp-seo-title.php:189
+#, php-format
+msgid "Compatibility Mode: <span style=\"color: %s;\">%s</span>"
+msgstr "Kompatibilitätsmodus: <span style=\"color: %s;\">%s</span>"
+
+#: inc/options-page-wrapper.php:99
+msgid "Custom Style CSS:"
+msgstr "Eigene Style CSS:"
+
+#: inc/options-page-wrapper.php:97
+msgid "Custom Style:"
+msgstr "Eigener Style:"
+
+#: inc/options-page-wrapper.php:88
+msgid ""
+"Do you have any questions? Do you need a custom plugin or custom function "
+"for WordPress / WooCommerce? Send us an email:"
+msgstr ""
+"Haben Sie  Fragen? Benötigen Sie ein individuelles Plugin oder eine "
+"benutzerdefinierte Funktion für WordPress / WooCommerce? Senden Sie uns eine "
+"E-Mail:"
+
+#: inc/options-page-wrapper.php:49
+msgid "Enable the Function?"
+msgstr "Aktiviere die Funktion?"
+
+#: inc/options-page-wrapper.php:49
+msgid "Enable the functionality of the Plugin."
+msgstr "Aktiviert die Funktion des Plugins"
+
+#: inc/options-page-wrapper.php:99
+msgid "Enter your custom CSS code here."
+msgstr "Schreibe Deine eigene CSS hier."
+
+#: hnp-seo-title.php:184
+#, php-format
+msgid "Function: <span style=\"color: %s;\">%s</span> | "
+msgstr "Funktion: <span style=\"color: %s;\">%s</span> | "
+
+#: inc/options-page-wrapper.php:107
+msgid "HNP - Programming made with love in Germany."
+msgstr "HNP - Programmierungen mit Liebe gemacht in Deutschland"
+
+#. Name of the plugin
+msgid "HNP - Url SEO Title"
+msgstr ""
+
+#: hnp-seo-title.php:33 hnp-seo-title.php:34
+msgid "HNP - Url Seo Title"
+msgstr ""
+
+#: inc/options-page-wrapper.php:8
+msgid "HNP SEO Title for URLs Plugin"
+msgstr "HNP SEO Titels für URLs"
+
+#. Author URI of the plugin
+msgid "https://homepage-nach-preis.de/"
+msgstr ""
+
+#: inc/options-page-wrapper.php:55
+msgid ""
+"If this function is enabled, an attempt will be made to prevent caching, "
+"minification, and concatenation of the frontend script. If you encounter "
+"error messages or if a function is not working as expected, try using this "
+"mode."
+msgstr ""
+"Wenn diese Funktion aktiviert ist, wird versucht, das Zwischenspeichern, "
+"Verkleinern und Verknüpfen des Front-End-Skripts zu verhindern. Wenn Sie "
+"Fehlermeldungen erhalten oder eine Funktion nicht wie erwartet funktioniert, "
+"versuchen Sie, diesen Modus zu verwenden."
+
+#: hnp-seo-title.php:112 hnp-seo-title.php:115
+msgid "Licence Activated"
+msgstr "Lizenz aktiviert"
+
+#: inc/options-page-wrapper.php:94
+msgid "Licence Code"
+msgstr "Lizenz Code"
+
+#: inc/options-page-wrapper.php:93
+msgid "Licence Key:"
+msgstr "Lizenz Code:"
+
+#: hnp-seo-title.php:121
+msgid "Licence Not activated"
+msgstr "Lizenz nicht aktiviert"
+
+#: hnp-seo-title.php:155 hnp-seo-title.php:159 hnp-seo-title.php:173
+#: hnp-seo-title.php:177
+msgid "Not Activated"
+msgstr "Nicht aktiviert"
+
+#: inc/options-page-wrapper.php:65
+msgid "Options:"
+msgstr "Optionen:"
+
+#: inc/options-page-wrapper.php:22
+msgid "Other"
+msgstr "Sonstiges"
+
+#: inc/options-page-wrapper.php:18
+msgid "Plugin"
+msgstr ""
+
+#: inc/options-page-wrapper.php:69
+msgid "Prefix:"
+msgstr ""
+
+#: hnp-seo-title.php:65 hnp-seo-title.php:83
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: hnp-seo-title.php:44
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/options-page-wrapper.php:74
+msgid "Suffix:"
+msgstr ""
+
+#: inc/options-page-wrapper.php:70 inc/options-page-wrapper.php:75
+msgid "Text"
+msgstr ""
+
+#: inc/options-page-wrapper.php:80 inc/options-page-wrapper.php:104
+msgid "Update/Save"
+msgstr "Speichern"
+
+#: inc/options-page-wrapper.php:60
+msgid "Use Defer mode?"
+msgstr "Defer Modus nutzen?"
+
+#: inc/options-page-wrapper.php:60
+msgid ""
+"When this function is enabled, the \"defer\" tag will be added to the "
+"frontend script, which prevents the script from blocking rendering. This "
+"function should be tested after activation."
+msgstr ""
+"Wenn diese Funktion aktiviert ist, wird das \"defer\"-Tag zum Frontend-"
+"Skript hinzugefügt, wodurch verhindert wird, dass das Skript das Rendering "
+"blockiert. Diese Funktion sollte nach der Aktivierung getestet werden."
+
+#: hnp-seo-title.php:53
+msgid "You do not have enough permission to view this page"
+msgstr ""
+
+#: inc/options-page-wrapper.php:93
+msgid "Your Licence Key."
+msgstr "Dein Lizenz Code."

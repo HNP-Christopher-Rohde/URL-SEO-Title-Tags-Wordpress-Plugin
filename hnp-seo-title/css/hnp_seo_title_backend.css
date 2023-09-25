@@ -1,0 +1,245 @@
+.hnp_seo_title_wrap {
+   padding: 20px;
+   background-color: #fff;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+   border-radius: 8px;
+   margin-top: 20px;
+   font-family: Arial, sans-serif;
+   max-width: 1000px;
+}
+
+.hnp_seo_title_wrap #wpfooter {
+  display: none;
+}
+
+.hnp_seo_title_nav-tab-wrapper {
+   display: flex;
+   
+}
+
+.hnp_seo_title_tab {
+   margin-bottom: 10px;
+}
+
+.hnp_seo_title_icon {
+   width: 64px;
+   height: 64px;
+   display: inline-block;
+   vertical-align: middle;
+}
+
+.hnp_seo_title_wrap .wp-picker-container {
+   position: relative;
+}
+
+.hnp_seo_title_wrap .wp-picker-container {
+   position: relative;
+}
+
+.hnp_seo_title_wrap .wp-picker-container .wp-picker-holder {
+   position: absolute;
+   left: 50%;
+   top: 5%;
+   transform: translate(-50%, -50%);
+   z-index: 1;
+}
+
+.hnp_seo_title_wrap .wp-picker-container input[type="text"] {
+   position: relative;
+   z-index: 2;
+}
+
+.hnp-color-input-wrapper input[type="text"] {
+   margin-right: 10px;
+}
+
+.hnp-option-container .wp-picker-container {
+   display: inline;
+}
+
+.hnp_seo_title_icon img{
+   width: 64px;
+   height: 64px;
+}
+
+.hnp_seo_title_backend-heading {
+   display: inline-block;
+   margin-left: 10px;
+   font-size: 24px;
+   font-weight: bold;
+   color: #333;
+}
+
+.hnp_30_pro label{
+   min-width: 30%;
+   display: inline-block;
+}
+
+
+.hnp_seo_title_nav-tab-wrapper {
+   margin-top: 20px;
+   border-bottom: 1px solid #ddd;
+}
+
+.hnp-tab .hnp-nav-tab {
+   display: inline-block;
+   padding: 10px 20px;
+   background-color: #eee;
+   color: #333;
+   text-decoration: none;
+   margin-right: 10px;
+   border-radius: 4px;
+   transition: background-color 0.3s ease;
+}
+
+.hnp-tab .hnp-nav-tab:hover {
+   background-color: #efaa15 !important;
+   color: #fff !important;
+}
+
+
+.hnp-nav-tab-active {
+   background-color: #333 !important;
+   color: #fff !important;
+}
+
+.hnp_seo_title_all-options {
+   width: 200px;
+   padding: 5px;
+   border-radius: 4px;
+   border: 1px solid #ddd;
+}
+
+.hnp-button-primary {
+   padding: 10px 20px;
+   background-color: #efaa15;
+   color: #fff;
+   font-weight: bold;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+}
+
+.hnp-button-primary:hover {
+   background-color: #333;
+}
+
+.hnp_seo_title_red {
+   color: #ca3131;
+}
+
+
+.hnp_seo_title_wrap .info-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  max-width: 800px;
+}
+
+.hnp_seo_title_wrap .info-table th, .info-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.hnp_seo_title_wrap .info-table th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+.hnp_seo_title_wrap .info-table td {
+  background-color: #fff;
+}
+
+.hnp_seo_title_wrap .info-table td:first-child {
+  width: 30%;
+}
+
+p.hnp_seo_title_shortcode_info {
+font-size: 16px; color: red;
+}
+
+.hnp_seo_title_wrap .hnp-option-spacing {
+padding-top: 20px;
+}
+
+.hnp_seo_title_wrap .hnp-option-spacing-2 {
+padding-top: 40px;
+padding-bottom: 20px;
+}
+
+.hnp_seo_title_wrap .wp-color-picker {
+width: auto !important;
+}
+
+.hnp_seo_title_wrap h3, .hnp_seo_title_wrap label, .hnp_seo_title_wrap p, .hnp_seo_title_wrap h2, .hnp_seo_title_wrap h4, .hnp_seo_title_wrap h5 {
+color: #1d2327;
+}
+
+.hnp_seo_title_wrap label, .hnp_seo_title_wrap p {
+font-size: 14px;
+}
+
+.hnp_seo_title_wrap .hover-box {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.hnp_seo_title_wrap .hover-box::before {
+    content: "?";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+    background-color: #3772f1;
+    color: #ffffff;
+    border-radius: 50%;
+    margin-right: 4px;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 4px;
+}
+
+.hnp_seo_title_wrap .hover-box .hover-text {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f6f6f6;
+    color: #333333;
+    padding: 10px;
+    border: 1px solid 17acff;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 200px;
+    z-index: 9999;
+}
+
+.hnp_seo_title_wrap .hover-box:hover .hover-text {
+    display: block;
+}
+
+.hnp_seo_title_data_active {
+    float: right;
+	padding-top: 15px;
+	padding-right: 5%;
+}
+
+.hnp_flex_container {
+   display: flex;
+   align-items: center;
+}
+
+.hnp_plugin_data_active{
+margin-left: 10px; 
+}
+
+h2.hnp_seo_title_backend-heading {
+margin-bottom: 5px;
+}
+
+#hnp_radio {
+min-width: 10%;
+}
