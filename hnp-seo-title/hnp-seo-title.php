@@ -125,18 +125,6 @@ function hnp_seo_title_check_licence_key_status() {
     return '<div class="hnp_plugin_data_active" style="color: ' . $color . '; font-weight: bold;">' . esc_html($hnp_licence_key) . '</div>';
 }
 
-// **** Radio Design LATER 
-function hnp_seo_title_radio_design() {
-    $options = get_option('hnp-seo-title-plugin-options-main');
-    $radio_design = isset($options['hnp_seo_title_data_radio_design']) ? $options['hnp_seo_title_data_radio_design'] : '';
-
-    if ($radio_design === 'seo_title_design_1' || empty($radio_design)) {
-        echo 'Design 1';
-    } else if ($radio_design === 'seo_title_design_2') {
-        echo 'Design 2';
-    }
-}
-
 
 // Check Status of Function
 function hnp_seo_title_check_status_main() {
